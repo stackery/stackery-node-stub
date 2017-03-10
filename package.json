@@ -1,6 +1,6 @@
 {
   "name": "stackery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stubs for the stackery module when used outside of a Stackery deployment",
   "main": "index.js",
   "repository": {
