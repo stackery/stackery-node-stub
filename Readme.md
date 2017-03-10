@@ -9,4 +9,4 @@ npm install --save-dev stackery
 
 ## Stubs
 ### output
-The `stackery.output()` function matches the [Ouput function]() signature. The stub ignores the message and options and resolves after the next tick of the Node.js event loop.
+The `stackery.output()` function matches the [Ouput function](https://docs.stackery.io/nodes/Function#outputting-messages) signature. The stub ignores the message and options and resolves after the next tick of the Node.js event loop.
