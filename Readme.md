@@ -1,4 +1,4 @@
-# Stackery module stub
+# Stackery Module Stub
 
 This module is a stub for the real [Stackery](https://www.stackery.io) module that is used for outputting messages from a [Function](https://docs.stackery.io/nodes/Function) node in a deployment. It is useful for when you want to run your Function code outside of a Stackery deployment.
 
