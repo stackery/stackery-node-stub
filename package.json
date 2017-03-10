@@ -1,0 +1,19 @@
+{
+  "name": "stackery",
+  "version": "1.0.0",
+  "description": "Stubs for the stackery module when used outside of a Stackery deployment",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stackery/stackery-node-stub.git"
+  },
+  "keywords": [
+    "stackery"
+  ],
+  "author": "Chase Douglas <chase@stackery.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stackery/stackery-node-stub/issues"
+  },
+  "homepage": "https://github.com/stackery/stackery-node-stub#readme"
+}
